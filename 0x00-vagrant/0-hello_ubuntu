@@ -1,1 +1,1 @@
-it prints the name of the operating system kernel that is currently running on your system.
+When you run the command uname without any options, it prints the name of the operating system kernel that is currently running on your system.
